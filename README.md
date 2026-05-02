@@ -10,3 +10,4 @@ The package index is available at:
 The index format is described in detail in [The Cargo Book](https://doc.rust-lang.org/cargo/reference/registry-index.html#index-format).
 
 The crates.io index is maintained by the [crates.io team](https://www.rust-lang.org/governance/teams/dev-tools#team-crates-io).
+
